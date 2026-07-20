@@ -26,7 +26,7 @@ Welcome to my **Azure Lakehouse Analytics Platform repository! 👋**
 - ✅ Databricks Platform <img src="https://cdn.simpleicons.org/databricks/FF3621" width="20"/>
 - ✅ Unity Catalog & Databricks Volumes 🔐📂
 - ✅ Apache Spark (PySpark) ⚡
-- ✅ Delta Lake & Delta Tables <img src="https://cdn.simpleicons.org/delta/00ADD8" width="20"/>
+- ✅ Delta Lake & Delta Tables **<img src="https://cdn.simpleicons.org/delta/00ADD8" width="35"/>**
 - ✅ Medallion Architecture (Bronze, Silver & Gold) 🥉🥈🥇
 - ✅ ETL/ELT Pipeline Development 🔄
 - ✅ Incremental Data Processing 📈
