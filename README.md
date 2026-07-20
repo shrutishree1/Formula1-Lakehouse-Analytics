@@ -9,7 +9,7 @@ This project demonstrates a modern end-to-end Lakehouse Data Engineering and Ana
 ------------------------------------------------------------------------------------------------------------------------------
 ![Status](https://img.shields.io/badge/DataEngineering-%20project-red)
 ![Platform](https://img.shields.io/badge/Platform-Databricks%20Free%20Edition-red)
-![Language](https://img.shields.io/badge/Language-PySpark%20SQL-blue)
+![Language](https://img.shields.io/badge/Language-PySpark%20&%20SQL-blue)
 ![Language](https://img.shields.io/badge/Delta%20Lake-blue)
 ![Language](https://img.shields.io/badge/Volumes-blue)
 ![Status](https://img.shields.io/badge/Unity%20Catalog-red)
