@@ -39,7 +39,7 @@ Welcome to my **Azure Lakehouse Analytics Platform repository! 👋**
 - ✅ Data Quality & Governance 🔍 
 - ✅  Version Control using Git & GitHub 🔧 🌐
 ------------------------------------------------------------------------------------------------------------------------------
-|  ### ⚙️ Technology Stack: |
+| **⚙️ Technology Stack** |
 |--------------|
 | 🔥 Databricks Free Edition |
 | 📂 Unity Catalog |
