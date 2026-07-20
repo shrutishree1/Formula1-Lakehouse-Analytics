@@ -9,11 +9,11 @@ This project demonstrates a modern end-to-end Lakehouse Data Engineering and Ana
 ------------------------------------------------------------------------------------------------------------------------------
 ![Status](https://img.shields.io/badge/DataEngineering-in%20project-red)
 ![Platform](https://img.shields.io/badge/platform-Databricks%20Free%20Edition-red)
-![Language](https://img.shields.io/badge/language-PySpark%20%7C%20SQL-blue)
-![Language](https://img.shields.io/badge/language-SQL%20%7C%20SQL-blue)
-![Language](https://img.shields.io/badge/Delta-in%20Lake%20%7C%20SQL-blue)
-![Language](https://img.shields.io/badge/Volumes%20%7C%20SQL-blue)
-![Language](https://img.shields.io/badge/Apache-in%Spark%20%7C%20SQL-blue)
+![Language](https://img.shields.io/badge/language-PySpark-blue)
+![Language](https://img.shields.io/badge/language-SQL-blue)
+![Language](https://img.shields.io/badge/Delta-in%20Lake-blue)
+![Language](https://img.shields.io/badge/Volumes-blue)
+![Language](https://img.shields.io/badge/Apache-in%Spark-blue)
 ![Status](https://img.shields.io/badge/Unity-in%20Catalog-red)
 ![Layer](https://img.shields.io/badge/Medallion%20Architecture-Bronze%20✅-cd7f32-Silver%20✅-cd7f32-cd7f32-Gold%20✅-cd7f32)
 
