@@ -1,9 +1,8 @@
 # **🏎️** Formula1-Lakehouse-Analytics
 
 Welcome to my **Azure Lakehouse Analytics Platform repository! 👋**  
-
 <hr>
-
+---
 This project demonstrates a modern end-to-end Lakehouse Data Engineering and Analytics solution built on Databricks. It showcases industry best practices for designing scalable, governed, and high-performance data platforms using Unity Catalog, Volumes, Apache Spark (PySpark), Delta Lake, and the Medallion Architecture, transforming raw Formula 1 data into analytics-ready datasets.
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -22,7 +21,7 @@ This project demonstrates a modern end-to-end Lakehouse Data Engineering and Ana
 
 
 > 🚀 **End-to-End Formula 1 Lakehouse Data Engineering Project** built using **Databricks, Unity Catalog, Volumes, Apache Spark (PySpark), Delta Lake, Medallion Architecture, Lakeflow Jobs, Incremental Data Processing, and Databricks SQL Analytics.**
-
+---
 ### 🏁  Project Overview
 This project simulates a real-world data platform for Formula 1 racing data - ingesting raw files (CSV & JSON), cleaning and standardizing them, follows the **Medallion Architecture (Bronze → Silver → Gold)** to ingest, transform, curate,eventually building analytics-ready datasets for reporting and visualization and analyze racing data using Databricks.
 
