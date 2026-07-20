@@ -76,7 +76,6 @@ Formula1-Data-Engineering-on-Databricks/
 └── project_description.md
 
 ```
-------------------------------------------------------------------------------------------------------------------------------
 <hr>
 
 ⚡Powered by -  Databricks Free Edition, Delta Lake, Unity Catalog, PySpark, Incremental Laod, Lakeflow Jobs
