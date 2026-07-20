@@ -41,20 +41,20 @@ Welcome to my **Azure Lakehouse Analytics Platform repository! 👋**
 ------------------------------------------------------------------------------------------------------------------------------
 ### ⚙️ Technology Stack:
 
-|🔥 Databricks Free Edition|
-|📂 Unity Catalog|
-|📦 Databricks Volumes|
-|⚡ Apache Spark|
-|🐍 PySpark|
-|💎 Delta Lake|
-|🗃️ Delta Tables|
-|🏗️ Medallion Architecture|
-|🏢 Lakehouse Architecture|
-|🛠️ Git & GitHub|
-|📊 Databricks SQL|
-|⏰ Lakeflow Jobs|
-|🔄 Incremental Processing|
-|📄 CSV & JSON|
+| 🔥 Databricks Free Edition |
+| 📂 Unity Catalog |
+| 📦 Databricks Volumes |
+| ⚡ Apache Spark |
+| 🐍 PySpark |
+| 💎 Delta Lake |
+| 🗃️ Delta Tables |
+| 🏗️ Medallion Architecture |
+| 🏢 Lakehouse Architecture |
+| 🛠️ Git & GitHub |
+| 📊 Databricks SQL |
+| ⏰ Lakeflow Job |
+| 🔄 Incremental Processing |
+| 📄 CSV & JSON |
 
 ------------------------------------------------------------------------------------------------------------------------------
 ### 📁 Repository Structure
