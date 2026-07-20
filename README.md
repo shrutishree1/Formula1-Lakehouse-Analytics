@@ -23,3 +23,31 @@ This project demonstrates a modern end-to-end Lakehouse Data Engineering and Ana
 
 > 🚀 **End-to-End Formula 1 Lakehouse Data Engineering Project** built using **Databricks, Unity Catalog, Volumes, Apache Spark (PySpark), Delta Lake, Medallion Architecture, Lakeflow Jobs, Incremental Data Processing, and Databricks SQL Analytics.**
 
+### 🏁  Project Overview
+This project simulates a real-world data platform for Formula 1 racing data - ingesting raw files (CSV & JSON), cleaning and standardizing them, follows the **Medallion Architecture (Bronze → Silver → Gold)** to ingest, transform, curate,eventually building analytics-ready datasets for reporting and visualization and analyze racing data using Databricks.
+
+
+**Why F1 data?** 🏎️💨 It's messy, nested, semi-structured, and spans decades — perfect for practicing real data engineering challenges like schema evolution, nested JSON parsing, and incremental loads.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
