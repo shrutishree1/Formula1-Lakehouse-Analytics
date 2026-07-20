@@ -91,7 +91,7 @@ Thanks for stopping by! 😊
 
 #### SShree
 
-> Azure Data Engineer • Databricks • PySpark • Delta Lake • ADLS Gen2 • Unity Catalog
+> Azure Data Engineer • Databricks • PySpark • Delta Lake • Unity Catalog • Lakeflow Jobs
 
 📧 email ID: shrutishree064@gmail.com
 
