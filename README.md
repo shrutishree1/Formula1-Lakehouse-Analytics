@@ -14,7 +14,10 @@ This project demonstrates a modern end-to-end Lakehouse Data Engineering and Ana
 ![Language](https://img.shields.io/badge/Volumes-blue)
 ![Status](https://img.shields.io/badge/Unity%20Catalog-red)
 ![Language](https://img.shields.io/badge/Apache%20Spark-blue)
-![Layer](https://img.shields.io/badge/Medallion%20Architecture-Bronze%20✅%20cd7f32-Silver%20✅%20cd7f32-cd7f32-Gold%20✅-cd7f32)
+![Architecture](https://img.shields.io/badge/Architecture-Medallion-blue)
+![Bronze](https://img.shields.io/badge/Bronze-cd7f32)
+![Silver](https://img.shields.io/badge/Silver-C0C0C0)
+![Gold](https://img.shields.io/badge/Gold-FFD700)
 
 
 
