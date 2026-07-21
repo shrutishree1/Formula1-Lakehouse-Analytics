@@ -2,12 +2,12 @@
 
 Welcome to my **Azure Lakehouse Analytics Platform repository! 👋**  
 
-![Status](https://img.shields.io/badge/DataEngineering-%20project-red)
-![Platform](https://img.shields.io/badge/Platform-Databricks%20Free%20Edition-red)
+![Status](https://img.shields.io/badge/project-%20DataEngineering-blue)
+![Platform](https://img.shields.io/badge/Platform-Databricks%20Free%20Edition-blue)
 ![Language](https://img.shields.io/badge/Language-PySpark%20&%20SQL-blue)
 ![Language](https://img.shields.io/badge/Delta%20Lake-blue)
 ![Language](https://img.shields.io/badge/Volumes-blue)
-![Status](https://img.shields.io/badge/Unity%20Catalog-red)
+![Status](https://img.shields.io/badge/Unity%20Catalog-blue)
 ![Language](https://img.shields.io/badge/Apache%20Spark-blue)
 ![Architecture](https://img.shields.io/badge/Architecture-Medallion-blue)
 ![Bronze](https://img.shields.io/badge/Bronze-cd7f32)
